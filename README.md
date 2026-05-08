@@ -194,7 +194,7 @@
 
 <p align="center">
   <!-- Streak Stats (reliable domain) -->
-  <img src="https://streak-stats.demolab.com/?user=POWER-WORLD&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=POWER-WORLD&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" width="100%"/>
 </p>
 
 <p align="center">
