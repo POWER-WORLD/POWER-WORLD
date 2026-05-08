@@ -189,7 +189,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+GitHub+Analytics;My+Code+Universe+in+Numbers" />
+  <h2>📊 GitHub Stats</h2>
 </div>
 
 <p align="center">
@@ -197,15 +197,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=POWER-WORLD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
   <!-- Streak Stats (reliable domain) -->
   <img src="https://streak-stats.demolab.com/?user=POWER-WORLD&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWER-WORLD&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="80%">
 </p>
 
 <p align="center">
