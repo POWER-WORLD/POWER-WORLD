@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <h1>💫 About Me</h1>
+  <h2>💫 About Me</h2>
 </div>
 
 <p align="center">
@@ -52,8 +52,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
-
-# 🌐 Connect With Me
+<div align="center">
+<h2>🌐 Connect With Me</h2>
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/pavan-kumar-23a3402b3" target="_blank">
@@ -77,7 +78,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
 
-# 💻 Tech Stack
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+</div>
 
 <details open>
 <summary align="center"><b>🚀 Languages</b></summary>
@@ -135,8 +138,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
 
-# 🚀 Featured Projects
-
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
 <table>
   <tr>
     <td width="50%">
@@ -209,7 +213,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
 
-# 📈 Contribution Graph
+<div align="center">
+  <h2>📈 Contribution Graph</h2>
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=POWER-WORLD&theme=tokyo-night&hide_border=true&area=true" />
@@ -219,7 +225,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
 
-# 🧠 Developer Mindset
+<div align="center">
+  <h2>🧠 Developer Mindset</h2>
+</div>
 
 ```javascript
 const pawan = {
