@@ -193,9 +193,10 @@
 </div>
 
 <p align="center">
-  <!-- Stats & Streak Side by Side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=POWER-WORLD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POWER-WORLD&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=6C63FF&ring=FF6584" height="180" />
+  <!-- Main Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=POWER-WORLD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
+  <!-- Streak Stats (reliable domain) -->
+  <img src="https://streak-stats.demolab.com/?user=POWER-WORLD&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 </p>
 
 <p align="center">
@@ -203,9 +204,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWER-WORLD&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&card_width=500" />
 </p>
 
-<!-- Optional: Mini Contribution Grid (keeps the look alive) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=POWER-WORLD&theme=tokyo-night&hide_border=true&area=true&radius=8" width="90%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="80%">
 </p>
 
 <p align="center">
