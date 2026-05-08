@@ -12,28 +12,46 @@
 
 ---
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px; margin-left: 20px;">
+## 💫 About Me
 
-# 💫 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓-BTech_Uttaranchal_University-3b82f6?style=for-the-badge&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/🌟-AI_%26_Full_Stack-ff6584?style=for-the-badge&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/⚡-Building_Opentrade-10b981?style=for-the-badge&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/🧠-Distributed_Systems_Explorer-f59e0b?style=for-the-badge&labelColor=1e293b" />
+</p>
 
-🎓 **BTech Student** at Uttaranchal University  
-💡 Passionate about **AI systems**, **scalable backend architectures**, **cloud computing**, and **real-world marketplace platforms**  
+<img align="right" alt="Coding" width="300" 
+     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+     style="border-radius: 16px; margin-left: 24px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 
-🚀 **Currently Building:**  
-- 🛒 **Opentrade** – Advanced Multi-Vendor Marketplace  
-- 🤖 AI & LLM Powered Applications  
-- 💬 Real-Time Messaging Systems  
-- ☁️ Scalable Cloud Architectures  
-- 📦 Enterprise MERN Stack Systems  
+**🎓 BTech Student** at Uttaranchal University  
+**💡 Passionate about** AI systems, scalable backend architectures, cloud computing, and real‑world marketplace platforms  
 
-🌱 **Exploring:** Distributed Systems, AI Engineering, DevOps, Advanced Backend Design  
+**🚀 Currently Crafting**  
+ 🛒 **Opentrade** – Advanced Multi‑Vendor Marketplace  
+ 🤖 AI & LLM Powered Applications  
+ 💬 Real‑Time Messaging Systems  
+ ☁️ Scalable Cloud Architectures  
+ 📦 Enterprise MERN Stack Systems  
 
-🏆 Hackathons • Coding Competitions • Technical Events  
+**🌱 Deep Diving Into**  
+ Distributed Systems • AI Engineering • DevOps & Cloud Infrastructure • Advanced Backend Design  
 
-🎯 **Goal:** Build powerful AI platforms that solve real-world problems.  
-⚡ **Fun Fact:** I love turning complex ideas into working products.
+**🏆 Participations**  
+ Hackathons • Coding Competitions • Technical Events  
+
+**🎯 Goal**  
+> Build powerful AI platforms that solve real‑world problems.  
+
+**⚡ Fun Fact**  
+> I love turning complex ideas into fully functional products — and I do it with a smile.  
 
 <br clear="right"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="30%">
+</p>
 
 ---
 
