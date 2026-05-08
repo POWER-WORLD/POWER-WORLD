@@ -188,7 +188,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
 
-# 📊 GitHub Stats
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=POWER-WORLD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
@@ -203,7 +205,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
 
-# 🏆 GitHub Trophies
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=POWER-WORLD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
