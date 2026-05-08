@@ -71,7 +71,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
+</p>
 
 # 💻 Tech Stack
 
@@ -127,7 +129,9 @@
 </p>
 </details>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
+</p>
 
 # 🚀 Featured Projects
 
@@ -174,7 +178,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
+</p>
 
 # 📊 GitHub Stats
 
@@ -187,7 +193,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWER-WORLD&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
+</p>
 
 # 🏆 GitHub Trophies
 
@@ -195,7 +203,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=POWER-WORLD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
+</p>
 
 # 📈 Contribution Graph
 
@@ -203,7 +213,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=POWER-WORLD&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
+</p>
 
 # 🧠 Developer Mindset
 
