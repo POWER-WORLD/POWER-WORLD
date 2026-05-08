@@ -10,7 +10,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
 
-## 💫 About Me
+<p align="center">
+  ## 💫 About Me
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-BTech_Uttaranchal_University-3b82f6?style=for-the-badge&labelColor=1e293b" />
