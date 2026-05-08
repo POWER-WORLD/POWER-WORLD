@@ -1,140 +1,176 @@
-````md
-<h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">🚀 Full Stack & AI Developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pawan+Kumar;Full+Stack+%26+AI+Developer;Building+Scalable+Marketplaces;MERN+%2B+AI+Engineer;LLM+%26+Cloud+Enthusiast" alt="Typing SVG" />
+</h1>
+<h3 align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalable_AI_Systems-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white" />
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+Scalable+Marketplace+Systems;MERN+%2B+AI+Engineer;Future+LLM+%26+System+Architecture+Engineer;Open+Source+Contributor" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="80%">
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 20px; margin-left: 20px;">
 
 # 💫 About Me
 
-🎓 BTech Student at Uttaranchal University  
-💡 Passionate about AI systems, scalable backend architectures, cloud computing, and real-world marketplace platforms  
+🎓 **BTech Student** at Uttaranchal University  
+💡 Passionate about **AI systems**, **scalable backend architectures**, **cloud computing**, and **real-world marketplace platforms**  
 
-🚀 Currently Building:
-- 🛒 Opentrade — Advanced Multi-Vendor Marketplace Platform
-- 🤖 AI & LLM Powered Applications
-- 💬 Real-Time Messaging Systems
-- ☁️ Scalable Cloud-Based Architectures
-- 📦 Enterprise Level MERN Stack Systems
+🚀 **Currently Building:**  
+- 🛒 **Opentrade** – Advanced Multi-Vendor Marketplace  
+- 🤖 AI & LLM Powered Applications  
+- 💬 Real-Time Messaging Systems  
+- ☁️ Scalable Cloud Architectures  
+- 📦 Enterprise MERN Stack Systems  
 
-🌱 Currently Exploring:
-- Distributed Systems
-- AI Engineering
-- DevOps & Cloud Infrastructure
-- Advanced Backend Architecture
-- Scalable Database Design
-- System Design & Performance Optimization
+🌱 **Exploring:** Distributed Systems, AI Engineering, DevOps, Advanced Backend Design  
 
-🏆 Participated in:
-- Hackathons
-- Coding Competitions
-- Technical Events
-- Development Projects
+🏆 Hackathons • Coding Competitions • Technical Events  
 
-🎯 Goal:
-> To build powerful AI systems and scalable platforms that solve real-world problems.
+🎯 **Goal:** Build powerful AI platforms that solve real-world problems.  
+⚡ **Fun Fact:** I love turning complex ideas into working products.
 
-⚡ Fun Fact:
-> I love turning complex ideas into real working products.
+<br clear="right"/>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/pavan-kumar-23a3402b3" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://x.com/Pawan3253702" target="blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="mailto:pk3253702@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/POWER-WORLD">
-<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/pavan-kumar-23a3402b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Pawan3253702" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:pk3253702@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/POWER-WORLD">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://dev.to/power_world" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-## 🚀 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,c,java" />
+<details open>
+<summary><b>🚀 Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,c,java&perline=6" />
 </p>
+</details>
 
-## 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,vite" />
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,vite&perline=7" />
 </p>
+</details>
 
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase" />
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase&perline=5" />
 </p>
+</details>
 
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=4" />
 </p>
+</details>
 
-## ☁️ Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify,render,githubactions" />
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify,render,githubactions&perline=7" />
 </p>
+</details>
 
-## 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<details open>
+<summary><b>🤖 AI / Machine Learning</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
+  <br>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
-
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+</details>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 Opentrade Marketplace Platform
-> Advanced marketplace ecosystem with buyer, seller, admin, delivery, and service-provider architecture inspired by real-world commerce systems.
-
-## 🤖 AI Data Drift Detection System
-> Intelligent ML monitoring system capable of detecting dataset drift and validating production data pipelines.
-
-## 💬 Real-Time Messaging System
-> Scalable live messaging architecture with notifications, real-time communication, and modern backend infrastructure.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 Opentrade Marketplace</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In_Progress-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-MERN-blue?style=flat-square" />
+        <br>
+        Advanced multi‑vendor e‑commerce platform with buyer, seller, admin, delivery & service‑provider roles. Real‑world commerce architecture.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 AI Data Drift Detector</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-Python%20%7C%20ML-orange?style=flat-square" />
+        <br>
+        Intelligent monitoring system to detect dataset drift and validate production data pipelines.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💬 Real-Time Messaging</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Alpha-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-WebSockets%20%7C%20Node.js-lightgrey?style=flat-square" />
+        <br>
+        Scalable live chat with notifications, modern backend infrastructure & instant communication.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 LLM Playground (Coming)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Designing-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tech-LLM%20%7C%20Next.js-red?style=flat-square" />
+        <br>
+        Interactive environment to test and compare large language models with custom prompts.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=POWER-WORLD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POWER-WORLD&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=POWER-WORLD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=POWER-WORLD&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWER-WORLD&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=POWER-WORLD&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
 ---
@@ -142,7 +178,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=POWER-WORLD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=POWER-WORLD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 </p>
 
 ---
@@ -150,7 +186,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=POWER-WORLD&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=POWER-WORLD&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -167,37 +203,6 @@ const pawan = {
         cloud: ["AWS", "Firebase", "Docker"],
         ai_ml: ["TensorFlow", "PyTorch", "Scikit-Learn"]
     },
-
     currentFocus: "Building scalable AI-powered systems",
     lifePhilosophy: "Build systems that create real impact."
 };
-````
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=POWER-WORLD&style=for-the-badge&color=blueviolet"/>
-</p>
-
----
-
-# 💭 Developer Philosophy
-
-> “Great software is not just coded — it is architected, scaled, and evolved.”
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-</p>
-```
