@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-BTech_Uttaranchal_University-3b82f6?style=for-the-badge&labelColor=1e293b" />
   <img src="https://img.shields.io/badge/🌟-AI_%26_Full_Stack-ff6584?style=for-the-badge&labelColor=1e293b" />
-  <img src="https://img.shields.io/badge/⚡-Building_Opentrade-10b981?style=for-the-badge&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/⚡-Building_Big_Systems-10b981?style=for-the-badge&labelColor=1e293b" />
   <img src="https://img.shields.io/badge/🧠-Distributed_Systems_Explorer-f59e0b?style=for-the-badge&labelColor=1e293b" />
 </p>
 
