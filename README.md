@@ -80,7 +80,7 @@
 # 💻 Tech Stack
 
 <details open>
-<summary><b>🚀 Languages</b></summary>
+<summary align="center"><b>🚀 Languages</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,c,java&perline=6" />
