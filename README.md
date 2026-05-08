@@ -88,7 +88,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 Frontend</b></summary>
+<summary align="center"><b>🎨 Frontend</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind,vite&perline=7" />
@@ -96,7 +96,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Backend</b></summary>
+<summary align="center"><b>⚙️ Backend</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase&perline=5" />
@@ -104,7 +104,7 @@
 </details>
 
 <details open>
-<summary><b>🗄️ Databases</b></summary>
+<summary align="center"><b>🗄️ Databases</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite&perline=4" />
@@ -112,7 +112,7 @@
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary align="center"><b>☁️ Cloud & DevOps</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify,render,githubactions&perline=7" />
@@ -120,7 +120,7 @@
 </details>
 
 <details open>
-<summary><b>🤖 AI / Machine Learning</b></summary>
+<summary align="center"><b>🤖 AI / Machine Learning</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
