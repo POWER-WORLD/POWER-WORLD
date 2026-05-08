@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pawan+Kumar;Full+Stack+%26+AI+Developer;Building+Scalable+Marketplaces;MERN+%2B+AI+Engineer;LLM+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </h1>
 <h3 align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable_AI_Systems-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_AI_Driven_Big_Systems-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-India-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white" />
 </h3>
 
@@ -48,10 +48,8 @@
 <br clear="right"/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="30%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
 </p>
-
----
 
 # 🌐 Connect With Me
 
