@@ -4,14 +4,6 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
-
-<div align="center">
-  <h2>💫 About Me</h2>
-</div>
-
-<p align="center">
   <img src="https://img.shields.io/badge/🎓-BTech_Uttaranchal_University-3b82f6?style=for-the-badge&labelColor=1e293b" />
   <img src="https://img.shields.io/badge/🌟-AI_%26_Full_Stack-ff6584?style=for-the-badge&labelColor=1e293b" />
   <img src="https://img.shields.io/badge/⚡-Building_Big_Systems-10b981?style=for-the-badge&labelColor=1e293b" />
@@ -19,6 +11,14 @@
   <img src="https://img.shields.io/badge/Focus-Scalable_AI_Driven_Big_Systems-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-India-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
+</p>
+
+<div align="center">
+  <h2>💫 About Me</h2>
+</div>
 
 **🎓 BTech Student** at Uttaranchal University  
 **💡 Passionate about** AI systems, scalable backend architectures, cloud computing, and real‑world marketplace platforms  
