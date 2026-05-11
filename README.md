@@ -21,7 +21,7 @@
 </p>
 
 <img align="right" alt="Coding" width="300" 
-     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+     src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDYyOHlmYjJ1cHpleGc3cWVrMXZoYzMwbDFtd3I3aXNlemkzdWw1aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif)" 
      style="border-radius: 16px; margin-left: 24px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 
 **🎓 BTech Student** at Uttaranchal University  
