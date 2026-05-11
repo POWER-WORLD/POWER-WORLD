@@ -1,8 +1,7 @@
 
-
-
-
-
+<div align="center">
+<img src="path/to/image.png">
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
