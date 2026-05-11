@@ -51,17 +51,7 @@
 <h2>🌐 Connect With Me</h2>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/pavan-kumar-23a3402b3" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://x.com/Pawan3253702" target="_blank"><img src="https://shields.io" alt="X" /></a>
-  &nbsp;
-  <a href="mailto:pk3253702@gmail.com"><img src="https://shields.io" alt="Gmail" /></a>
-  &nbsp;
-  <a href="https://github.com/POWER-WORLD"><img src="https://shields.io" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://dev.to/power_world" target="_blank"><img src="https://shields.io" alt="Dev.to" /></a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/pavan-kumar-23a3402b3" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/Pawan3253702" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="mailto:pk3253702@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/POWER-WORLD" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://dev.to/power_world" target="_blank"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> </a> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
