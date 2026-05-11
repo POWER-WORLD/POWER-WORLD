@@ -1,10 +1,92 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pawan+Kumar;Full+Stack+%26+AI+Developer;Building+Scalable+Marketplaces;MERN+%2B+AI+Engineer;LLM+%26+Cloud+Enthusiast" alt="Typing SVG" />
-</h1>
-<h3 align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable_AI_Driven_Big_Systems-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-India-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white" />
-</h3>
+<div align="center">
+  <svg width="100%" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+      <!-- Animated Mesh Gradient Background -->
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#0a0a2e">
+          <animate attributeName="stop-color" values="#0a0a2e;#1a1040;#0a0a2e" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="50%" stop-color="#1e1450">
+          <animate attributeName="stop-color" values="#1e1450;#2a1b66;#1e1450" dur="6s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#0a0a2e">
+          <animate attributeName="stop-color" values="#0a0a2e;#1a1040;#0a0a2e" dur="6s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+      <!-- Animated Dot Pattern Overlay -->
+      <pattern id="dotPattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+        <circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.08">
+          <animate attributeName="opacity" values="0.08;0.2;0.08" dur="3s" repeatCount="indefinite"/>
+        </circle>
+      </pattern>
+      <!-- Neon Glow Filter -->
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur1"/>
+        <feGaussianBlur in="SourceGraphic" stdDeviation="12" result="blur2"/>
+        <feMerge>
+          <feMergeNode in="blur2"/>
+          <feMergeNode in="blur1"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+      <!-- Subtle Text Shadow -->
+      <filter id="softShadow">
+        <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.5"/>
+      </filter>
+    </defs>
+
+    <!-- Background layers -->
+    <rect width="800" height="280" fill="url(#bgGrad)" rx="20"/>
+    <rect width="800" height="280" fill="url(#dotPattern)" rx="20"/>
+
+    <!-- Decorative Animated Code Brackets -->
+    <g opacity="0.12">
+      <text x="40" y="240" font-family="'Fira Code', monospace" font-size="70" fill="#ffffff" filter="url(#softShadow)">
+        &lt;
+        <animate attributeName="y" values="240;220;240" dur="4.5s" repeatCount="indefinite" />
+      </text>
+      <text x="720" y="240" font-family="'Fira Code', monospace" font-size="70" fill="#ffffff" filter="url(#softShadow)">
+        /&gt;
+        <animate attributeName="y" values="240;260;240" dur="4.5s" repeatCount="indefinite" />
+      </text>
+    </g>
+
+    <!-- Floating Tech Orbs -->
+    <circle cx="120" cy="60" r="5" fill="#FF6584" opacity="0.9">
+      <animate attributeName="cy" values="60;25;60" dur="3.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.9;0.4;0.9" dur="3.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="680" cy="90" r="7" fill="#6C63FF" opacity="0.7">
+      <animate attributeName="cy" values="90;45;90" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="400" cy="40" r="4" fill="#00F7FF" opacity="0.8">
+      <animate attributeName="cy" values="40;15;40" dur="2.9s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="250" cy="70" r="3" fill="#FF6584" opacity="0.5">
+      <animate attributeName="cy" values="70;35;70" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="550" cy="50" r="6" fill="#6C63FF" opacity="0.6">
+      <animate attributeName="cy" values="50;20;50" dur="3.4s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Glowing Name -->
+    <text x="400" y="110" text-anchor="middle" font-family="'Segoe UI', 'Fira Code', 'Poppins', sans-serif" font-size="48" font-weight="900" fill="#ffffff" filter="url(#glow)">
+      Hi 👋, I'm Pawan Kumar
+    </text>
+
+    <!-- Embedded Typing Animation (exact external image) -->
+    <image x="200" y="150" width="400" height="50" xlink:href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=400&amp;lines=Full+Stack+%26+AI+Developer;Building+Scalable+Marketplaces;MERN+%2B+AI+Engineer;LLM+%26+Cloud+Enthusiast" />
+
+    <!-- Optional Rounded Bottom Border Glow -->
+    <rect x="0" y="278" width="800" height="2" fill="url(#bgGrad)" rx="20">
+      <animate attributeName="height" values="2;4;2" dur="2s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+</div>
+
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
