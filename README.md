@@ -22,7 +22,7 @@
 </p>
 
 <img align="right" alt="Coding" width="300" 
-     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzExaGRxZTF3aWNmaThya3IzcXVxcDAwOGYwNjB5N3lqYXh1eXl6cCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" 
      style="border-radius: 16px; margin-left: 24px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
 
 **🎓 BTech Student** at Uttaranchal University  
