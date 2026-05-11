@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="path/to/image.png">
+<img src="ChatGPT Image May 11, 2026, 08_59_22 PM.png">
 </div>
 
 <p align="center">
