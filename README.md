@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/🌟-AI_%26_Full_Stack-ff6584?style=for-the-badge&labelColor=1e293b" />
   <img src="https://img.shields.io/badge/⚡-Building_Big_Systems-10b981?style=for-the-badge&labelColor=1e293b" />
   <img src="https://img.shields.io/badge/🧠-Distributed_Systems_Explorer-f59e0b?style=for-the-badge&labelColor=1e293b" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_AI_Driven_Big_Systems-6C63FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-India-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
 
 <img align="right" alt="Coding" width="300" 
