@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Location-India-FF6F00?style=for-the-badge&logo=google-earth&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
+
 
 <div align="center">
   <h2>💫 About Me</h2>
@@ -43,19 +41,6 @@
 > I love turning complex ideas into fully functional products — and I do it with a smile.  
 
 <br clear="right"/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
-<div align="center">
-<h2>🌐 Connect With Me</h2>
-</div>
-
-<p align="center"> <a href="https://linkedin.com/in/pavan-kumar-23a3402b3" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://x.com/Pawan3253702" target="_blank"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="mailto:pk3253702@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/POWER-WORLD" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://dev.to/power_world" target="_blank"> <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /> </a> </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
 
 <div align="center">
   <h2>💻 Tech Stack</h2>
@@ -97,7 +82,7 @@
 <summary align="center"><b>☁️ Cloud & DevOps</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify,render,githubactions&perline=7" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,vercel,netlify,githubactions&perline=7" />
 </p>
 </details>
 
@@ -112,10 +97,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 </details>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
 
 <div align="center">
   <h2>🚀 Featured Projects</h2>
@@ -163,46 +144,43 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
 </div>
 
-<p align="center">
-  <!-- Streak Stats (reliable domain) -->
-  <img src="https://streak-stats.demolab.com/?user=POWER-WORLD&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="200" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=POWER-WORLD&theme=transparent&hide_border=true" width="90%"/>
 
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=POWER-WORLD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
+  <h2>🌐 Connect With Me</h2>
+</div> 
 
 <div align="center">
-  <h2>📈 Contribution Graph</h2>
+<a href="https://linkedin.com/in/pavan-kumar-23a3402b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://x.com/Pawan3253702">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="mailto:pk3253702@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/POWER-WORLD">
+<img src="https://img.shields.io/badge/GitHub-POWER--WORLD-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://dev.to/power_world">
+<img src="https://img.shields.io/badge/DEV.to-Articles-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+</a>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=POWER-WORLD&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/POWER-WORLD?label=FOLLOWERS&style=for-the-badge&color=10B981" />
+  <img src="https://img.shields.io/github/stars/POWER-WORLD?label=STARS&style=for-the-badge&color=F59E0B" />
+</p>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=POWER-WORLD&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:FF6584&height=3&section=header" width="100%">
-</p>
 
 <div align="center">
   <h2>🧠 Developer Mindset</h2>
@@ -221,3 +199,5 @@ const pawan = {
     currentFocus: "Building scalable AI-powered systems",
     lifePhilosophy: "Build systems that create real impact."
 };
+
+```
