@@ -155,11 +155,11 @@
 </div> 
 
 <div align="center">
-<a href="https://linkedin.com/in/pavan-kumar-23a3402b">
+<a href="https://linkedin.com/in/pawankumar101">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://x.com/Pawan3253702">
+<a href="https://x.com/Pawankumarg101">
 <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
